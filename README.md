@@ -1,4 +1,4 @@
-![logo](https://github.com/SOHIL-03/SOHIL-03/blob/main/01.png)
+![logo](https://github.com/SOHIL-03/SOHIL-03/blob/main/01.jpg)
 <h1 align="center">Hello 👋, I'm Sohil Dhiman</h1>
 <h3 align="center">A passionate AI/ML Engineer from India</h3>
 
